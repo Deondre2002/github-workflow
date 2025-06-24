@@ -1,3 +1,3 @@
 # github-workflow
 
-To improve is the chamnge
+To improve is the change
